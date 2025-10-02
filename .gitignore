@@ -1,0 +1,11 @@
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer le dossier build/
+build/
+
+# Ignorer le fichier TODO
+/TODO
+
+# Ignorer les fichiers .txt dans doc/ et sous-dossiers
+doc/**/*.txt
