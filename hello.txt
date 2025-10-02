@@ -1,2 +1,7 @@
 Bonjour depuis GitHub !
+<<<<<<< HEAD
 Modifié en local
+=======
+Ligne locale
+Ligne distante
+>>>>>>> 8e508f0c1e4ffe7fe1f956913775392757e50a8f
