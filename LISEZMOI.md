@@ -2,3 +2,4 @@
 Nouvelle ligne test pour git diff
 Deuxième ligne de test
 Troisième ligne test avec -a
+Nouvelle ligne test diff
